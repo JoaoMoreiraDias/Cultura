@@ -1,0 +1,35 @@
+<?php
+include('template/index.php');
+get_header('definicoes');
+?>
+<div class="body3">
+	<div class="main">
+		<article id="content">
+			<div class="wrapper">
+				<section class="col">
+					<h2 class="under">Apagar um Monumento</h2>
+					<form id="formulario" method="post">
+						<div>
+							<div  class="wrapper">
+								<span>Nome:</span>
+								<input name="TF_Nome" type="text" value="" class="input" placeholder="Nome do Monumento..." autocomplete="off" required="required"/>
+							</div>
+							<div>
+								<select id = "monumentos">
+									<!--Isto tem que vir de um query...-->
+									<option value = "1">Mon1</option>
+									<option value = "2">Mon2</option>
+									<option value = "3">Mon3</option>
+									<option value = "4">Mon4</option>
+								</select>
+							</div>
+						</div>
+					</form>
+				</section>
+			</div>
+		</article>
+	</div>
+</div>
+<?php
+get_footer();
+?>

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+<HEAD>
+    <TITLE>Roteiro</TITLE>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-57x57-precomposed.png">
+    </HEAD>
+
+    <body>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <style type="text/css">
+        html {
+            height: 100%
+        }
+        body {
+            height: 100%;
+            margin: 0;
+            padding: 0
+        }
+        #map-canvas {
+            height: 100%
+        }
+        </style>
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqo6iufgdtteyfRQ56fONpnidJDPIdIsI&sensor=false">
+
+        </script>
+        <script type="text/javascript">
+        var bounds = new google.maps.LatLngBounds();
+        //['Igreja e Torre dos Clérigos', 41.145699,-8.61474],
+        var markers = [
+        ['Porto Medieval',1,1]
+        ['Santa Clara',1,1]
+        ['Muralha Fernandina',1,1]
+        ['Cais da Ribeira',1,1]
+        ['Ponte das Tábuas/Barcas',1,1]
+        ['Sé',1,1]
+        ['Torre Pedro Pitões',1,1]
+        ['Casa dos 24',1,1]
+        ['Torre e casa da Reboleira',1,1]
+        ['Igreja de S. Francisco',1,1]
+        ['Casa do Barredo',1,1]
+        ['Muro dos Bacalhoeiros',1,1]
+        ['Postigo do Carvão',1,1]
+        ['Casa do Infante',1,1]
+        ['Arco das Verdades',1,1]
+        ['Casa dos Redemoinhos',1,1]
+        ];
+
+        function initializeMaps() {
+            var myOptions = {
+                zoom: 4,
+                center: bounds,
+                mapTypeId: google.maps.MapTypeId.ROADMAP,
+            };
+
+            //var contentString1 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Marta</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString1 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Porto Medieval</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString2 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Santa Clara</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString3 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Muralha Fernandina</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString4 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Cais da Ribeira</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString5 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Ponte das Tábuas/Barcas</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString6 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Sé</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString7 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Torre Pedro Pitões</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString8 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Casa dos 24</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString9 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Torre e casa da Reboleira</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString10 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Igreja de S. Francisco</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString11 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Casa do Barrado</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString12 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Muro dos Bacalhoeiros</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString13 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Postigo do Carvão</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString14 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Casa do Infante</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString15 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Arco das Verdades</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            contentString16 = '<div id="content"> <h1 id="firstHeading" class="firstHeading">Casa dos Redemoinhos</h1><p><a href="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif"><img alt="" src="http://4.bp.blogspot.com/_fkxkxbmG7cY/TTBV4oT4jZI/AAAAAAAAABE/8B9SsMNEz1E/s1600/600.gif" style="width: 147.5px; height: 110.75;" /></a></p><p>Ricardo conhece a Marta...</p><p><a href="http://www.marta.pt">Site da Marta</a></p></div>';
+
+            var map = new google.maps.Map(document.getElementById('map-canvas'), myOptions);
+
+            var infowindow1 = new google.maps.InfoWindow({content: contentString1});
+            var infowindow2 = new google.maps.InfoWindow({content: contentString2});
+            var infowindow3 = new google.maps.InfoWindow({content: contentString3});
+            var infowindow4 = new google.maps.InfoWindow({content: contentString4});
+            var infowindow5 = new google.maps.InfoWindow({content: contentString5});
+            var infowindow6 = new google.maps.InfoWindow({content: contentString1});
+            var infowindow7 = new google.maps.InfoWindow({content: contentString1});
+            var infowindow8 = new google.maps.InfoWindow({content: contentString1});
+            var infowindow9 = new google.maps.InfoWindow({content: contentString1});
+            var infowindow10 = new google.maps.InfoWindow({content: contentString1});
+            var infowindow11 = new google.maps.InfoWindow({content: contentString1});
+            var infowindow12 = new google.maps.InfoWindow({content: contentString1});
+            var infowindow13 = new google.maps.InfoWindow({content: contentString1});
+            var infowindow14 = new google.maps.InfoWindow({content: contentString1});
+            var infowindow15 = new google.maps.InfoWindow({content: contentString1});
+            var infowindow16 = new google.maps.InfoWindow({content: contentString1});
+            var infowindow=[infowindow1, infowindow2, infowindow3, infowindow4, infowindow5, infowindow6, infowindow7, infowindow8, infowindow9, infowindow10, infowindow11, infowindow12, infowindow13, infowindow14, infowindow15, infowindow16];
+
+            var marker, i;
+            var bounds = new google.maps.LatLngBounds();
+
+            for (i = 0; i < markers.length; i++) 
+            {
+                var pos = new google.maps.LatLng(markers[i][1], markers[i][2]);
+                bounds.extend(pos);    
+
+                marker = new google.maps.Marker(
+                {
+                    position: pos,
+                    map: map
+                });
+                google.maps.event.addListener(marker, 'click', (function (marker, i) 
+                {
+                    return function () 
+                    {
+                        infowindow1.close();
+                        infowindow2.close();
+                        infowindow3.close();
+                        infowindow4.close();
+                        infowindow5.close();
+                        infowindow6.close();
+                        infowindow7.close();
+                        infowindow8.close();
+                        infowindow9.close();
+                        infowindow10.close();
+                        infowindow11.close();
+                        infowindow12.close();
+                        infowindow13.close();
+                        infowindow14.close();
+                        infowindow15.close();
+                        infowindow16.close();
+                        infowindow[i].open(map, marker);
+                    }
+                })(marker, i));
+
+                map.fitBounds(bounds);
+            }(i);
+        }     
+        google.maps.event.addDomListener(window, 'load', initializeMaps);
+        </script>
+        <div id="map-canvas" />
+    </body>
+
+    </html>

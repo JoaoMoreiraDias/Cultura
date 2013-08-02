@@ -1,0 +1,62 @@
+<?php
+include('template/index.php');
+get_header('definicoes');
+?>
+<!--as seguintes 2as linhas nao estao a carregar no meu, ve se consegues fazer isso com o php que tens em cima-->
+<link href="css/uploadstyle.css" rel="stylesheet" type="text/css" />
+<script src="js/uploadscript.js"></script>
+<div class="body3">
+	<div class="main">
+		<article id="content">
+			<div class="wrapper">
+				<section class="col">
+					<h2 class="under">Criar um Jogo</h2>
+					<form id="formulario" method="post">
+						<div>
+							<div class="upload_form_cont">
+								<form id="upload_form" enctype="multipart/form-data" method="post" action="upload.php">
+									<div>
+										<div><label for="image_file">Arquivo do jogo:</label></div>
+										<div><input type="file" name="image_file" id="image_file" onchange="fileSelected();" /></div>
+									</div>
+									<div>
+										<input type="button" value="Upload" onclick="startUploading()" />
+									</div>
+									<div id="fileinfo">
+										<div id="filename"></div>
+										<div id="filesize"></div>
+										<div id="filetype"></div>
+										<div id="filedim"></div>
+									</div>
+									<div id="error">Tipo de imagem não suportado!</div>
+										<div id="error2">Erro a upload!</div>
+										<div id="abort">Upload cancelado ou erro na conecção!</div>
+										<div id="warnsize">Ficheiro é demasiado grande!</div>
+
+									<div id="progress_info">
+										<div id="progress"></div>
+										<div id="progress_percent">&nbsp;</div>
+										<div class="clear_both"></div>
+										<div>
+											<div id="speed">&nbsp;</div>
+											<div id="remaining">&nbsp;</div>
+											<div id="b_transfered">&nbsp;</div>
+											<div class="clear_both"></div>
+										</div>
+										<div id="upload_response"></div>
+									</div>
+								</form>
+
+								<img id="preview" />
+							</div>
+
+						</div>
+					</form>
+				</section>
+			</div>
+		</article>
+	</div>
+</div>
+<?php
+get_footer();
+?>

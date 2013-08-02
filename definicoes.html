@@ -1,0 +1,55 @@
+<?php
+include('template/index.php');
+get_header('definicoes');
+?>
+<div class="body3">
+	<div class="main">
+		<article id="content">
+			<div class="wrapper">
+				<section class="col">
+					<h2 class="under">Definições gerais de conta</h2>
+					<form id="formulario" method="post">
+						<div>
+							<div  class="wrapper">
+								<p id="msg_erro" visibility="hidden">Email ou password invalidos</p>
+								<span>Nome:</span>
+								<input name="TF_Nome" type="text" value="" class="input"/>
+								<input name="B_Nome" type="button" value="Actualizar" />
+								<a id="btn_n" type="button" ></a>
+							</div>
+							<div  class="wrapper">
+								<span>Email:</span>
+								<input id="email" name="email" required type="text" class="input" >
+								<input name="B_Nome" type="button" value="Actualizar" />
+								<a id="btn_e" type="button" ></a>
+							</div>
+							<div  class="wrapper">
+								<span>Data de Narcimento:</span>
+								<input name="TF_DataNarc" type="text" value="" class="input"/>
+								<input name="B_Nome" type="button" value="Actualizar" />
+								<a id="btn_d" type="button" ></a>
+							</div>
+							<div  class="wrapper">
+								<span>Sexo:</span>
+								<label for="homem">Homem</label>
+								<input type="radio" name="sexo" id="homem" value="homem"><br>
+								<label for="mulher">Mulher</label>
+								<input type="radio" name="sexo" id="mulher" value="mulher"><br>
+								<a id="btn_s" type="button" ></a>
+							</div>
+							<div  class="wrapper">
+								<span>Password:</span>
+								<input id="password" name="password" required type="password" class="input" >
+								<input name="B_Nome" type="button" value="Actualizar" />
+								<a id="btn_p" type="button" ></a>
+							</div>
+						</div>
+					</form>
+				</section>
+			</div>
+		</article>
+	</div>
+</div>
+<?php
+get_footer();
+?>

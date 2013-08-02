@@ -1,0 +1,102 @@
+                                                                     
+                                                                     
+                                                                     
+                                             
+<?php
+
+$json = '{
+	"palavras" : [
+		"hL",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+	],
+	"puzzles" : [
+		"hL",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+		"hdufd",
+	],
+	"diferencas" : [
+		{
+			"fundo" : "fhdfu",
+			"sobre" : [
+				"fhdkj",
+				"fhdkj",
+				"fhdkj",
+				"fhdkj",
+			]
+		},
+		{
+			"fundo" : "fhdfu",
+			"sobre" : [
+				"fhdkj",
+				"fhdkj",
+				"fhdkj",
+				"fhdkj",
+			]
+		},
+		{
+			"fundo" : "fhdfu",
+			"sobre" : [
+				"fhdkj",
+				"fhdkj",
+				"fhdkj",
+				"fhdkj",
+			]
+		},
+		{
+			"fundo" : "fhdfu",
+			"sobre" : [
+				"fhdkj",
+				"fhdkj",
+				"fhdkj",
+				"fhdkj",
+			]
+		}
+	]
+}';
+
+$array = json_decode($json);
+
+$palavras = $array["palavras"];
+
+foreach ($palavras as $palavra) {
+
+}
+
+
+// para fazer includes sempre desde a raiz
+require_once($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . "includes" . DIRECTORY_SEPARATOR . "head.inc");

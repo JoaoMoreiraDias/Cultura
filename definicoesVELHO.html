@@ -1,0 +1,77 @@
+
+<div class="body3">
+    <div class="main">
+        <article id="content">
+            <div class="wrapper">
+                <section class="col">
+                    <h2 class="under">Efetuar Login</h2>
+                        <form id="formulario" method="post">
+                        <div>
+                            <div  class="wrapper">
+                            <p id="msg_erro" visibility="hidden">Email ou password errados</p>
+                                <span>Email:</span>
+                                <input id="email" name="email" required type="text" class="input" >
+                            </div>
+                            <div  class="wrapper">
+                                <span>Password:</span>
+                                <input id="password" name="password" required type="password" class="input" >
+                            </div>
+                            <a id="btn_login" type="button" >Login</a>
+                        </div>
+                    </form>
+                    <h1>Não tem uma conta? <a href="registo.php">Inscreva-se agora</a></h1>
+                </section>
+            </div>
+        </article>
+    </div>
+</div>
+
+
+
+				<?php
+    include('template/index.php');
+    get_header('defenicoes');
+?>
+		<title>Definições gerais de conta</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<body>
+			<h1>
+				Definições gerais de conta</h1>
+				<p>
+					Nome:<br />
+					<input name="TF_Nome" type="text" value="João Moreira Dias" /></p>
+					<p>
+						<br />
+						<input name="B_Nome" type="button" value="Actualizar" /></p>
+						<p>
+							&nbsp;</p>
+							<p>
+								Email:</p>
+								<p>
+									<input name="TF_Email" type="text" value="joao.moreira.dias1@gmail.com" /></p>
+									<p>
+										<input name="B_Email" type="button" value="Actualizar" /></p>
+										<p>
+											&nbsp;</p>
+											<p>
+												Data de Narcimento:</p>
+												<p>
+													<input name="TF_DOB" type="text" value="30 de Maio de 1992" /></p>
+													<p>
+														<input name="B_DOB" type="button" value="Actualizar" /></p>
+														<p>
+															Sexo:</p>
+															<p>
+																<input checked="checked" name="RB_Sexo_H" type="radio" value="sexo" />Homem</p>
+																<p>
+																	<input name="RB_Sexo_M" type="radio" value="sexo" />Mulher</p>
+																	<p>
+																		Password:</p>
+																		<p>
+																			<input name="TF_Password" type="password" value="Password" /></p>
+																			<p>
+																				<input name="B_Password" type="button" value="Actualizar" /></p>
+
+																			<?php
+    get_footer();
+?>

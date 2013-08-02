@@ -1,0 +1,22 @@
+CACHE MANIFEST
+
+FALLBACK:
+offlineindex.html
+
+CACHE:
+ficheiros/json/inscritoscursonacional.json
+ficheiros/xml/cursos.xml
+ficheiros/css/bootstrap.min.css
+ficheiros/css/bootstrap-responsive.min.css
+ficheiros/css/site.css
+ficheiros/css/style.css
+ficheiros/js/site.js
+ficheiros/js/html5shiv.js
+ficheiros/js/jquery.tablesorter.js
+ficheiros/js/jquery.js
+ficheiros/js/bootstrap.min.js
+ficheiros/img/asc.gif
+ficheiros/img/bg.gif
+ficheiros/img/desc.gif
+ficheiros/img/glyphicons-halflings.png
+ficheiros/img/glyphicons-halflings-white.png

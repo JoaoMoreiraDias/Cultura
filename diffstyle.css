@@ -1,0 +1,160 @@
+P, TD, TH, UL {
+    Font - family: Comic Sans MS,
+    Arial,
+    Sans serif;
+    Color: #000000;
+}
+BODY
+{
+    Font-family: Arial, Sans serif;
+    Color: # 000000;
+    text - align: center;
+}
+
+H1 {
+    border: 0;
+    margin: 5px;
+    Font - size: 18px;
+    text - align: center;
+}
+H2 {
+    border: 0;
+    margin: 5px;
+    Font - size: 14px;
+    text - align: center;
+}
+
+.opt {
+    Font - size: 10px;
+}
+
+.small {
+    font - size: 10px;
+}
+
+.maintable {
+/*    display: block;
+*/    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+.menuleft {
+    vertical - align: top;
+}
+    .menuleft p {
+    color: #000000;
+}
+
+.menuleft a:link    {  color: # 009000;
+    text - decoration: none;
+    Font - Weight: bold;
+}
+    .menuleft a: active {
+    color: #009000; text-decoration: none; Font-Weight: bold;}
+.menuleft a:visited {  color: # 009000;
+    text - decoration: none;
+    Font - Weight: bold;
+}
+    .menuleft a: hover {
+    color: #40D040; text-decoration: none; Font-Weight: bold;}
+
+.codelink a:link    {  color: # 009000;
+    text - decoration: none;
+    Font - Weight: bold;
+}
+    .codelink a: active {
+    color: #009000; text-decoration: none; Font-Weight: bold;}
+.codelink a:visited {  color: # 009000;
+    text - decoration: none;
+    Font - Weight: bold;
+}
+    .codelink a: hover {
+    color: #40D040; text-decoration: none; Font-Weight: bold;}
+
+.gameplay, .gameplay p
+{
+    color: # 000000;
+}
+
+.gameframe {
+    display: block;
+    position: relative;
+    left: 4px;
+    top: 0px;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+.txt {
+    Font - size: 12pt;
+    Font - family: 'Times New Roman',
+    Times,
+    serif;
+}
+
+.txt a: link {
+    color: #000000; text-decoration: none;}
+.txt a:active   {color: # 000000;
+    text - decoration: none;
+}
+    .txt a: visited {
+    color: #000000; text-decoration: none;}
+.txt a:hover    {color: # 000000;
+    text - decoration: none;
+}
+
+.ptbl {
+    Font - size: 10pt;
+    Font - family: 'Times New Roman',
+    Times,
+    serif;
+}
+
+.aa a: link {
+    color: #900000; text-decoration: none; Font-Weight: bold;}
+.aa a:active    {  color: # 900000;
+    text - decoration: none;
+    Font - Weight: bold;
+}
+    .aa a: visited {
+    color: #900000; text-decoration: none; Font-Weight: bold;}
+.aa a:hover     {  color: # 900000;
+    text - decoration: none;
+    Font - Weight: bold;
+}
+
+.ab a: link {
+    color: #400000; text-decoration: none;}
+.ab a:active    {  color: # 400000;
+    text - decoration: none;
+}
+    .ab a: visited {
+    color: #400000; text-decoration: none;}
+.ab a:hover     {  color: # 400000;
+    text - decoration: none;
+}
+    .ab b {
+    Font - Weight: normal;
+}
+
+.ac a: link {
+    color: #900000;}
+.ac a:active    {  color: # D00000;
+}
+    .ac a: visited {
+    color: #900000;}
+.ac a:hover     {  color: # D00000;
+}
+
+img {
+    -moz - user - select: none; - khtml - user - select: none;
+    user - select: none;
+}
+
+td{
+    cellpadding: 0;
+    cellspacing: 0;
+    border: 0;
+}

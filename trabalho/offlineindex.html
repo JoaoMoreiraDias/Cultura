@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang='pt'>
+<head>
+	<meta charset='utf-8' />
+	<meta name='author' content='José Pereira' />
+	<meta name='description' content='Trabalho final SW' />
+	<meta name='keywords' content='trabalho, final, sistemas, web, html5, css, javascript' />
+	<title>Saiba onde dar Explicações</title>
+	<link type='text/css' href='ficheiros/css/reset.css' rel='stylesheet' />
+	<link type='text/css' href='ficheiros/css/bootstrap.min.css' rel='stylesheet'/>
+	<link type='text/css' href='ficheiros/css/bootstrap-responsive.min.css' rel='stylesheet' />
+	<link type='text/css' href='ficheiros/css/site.css' rel='stylesheet' />
+	<!--[if lt IE 8]>
+            <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
+            <![endif]-->
+        <!--[if lt IE 9]>
+            <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+            <script>
+                document.getElementsByTagName('html')[0].className = 'ie';
+            </script>
+            <![endif]-->
+
+        <!--[if lt IE 9]>
+            <script src='ficheiros/js/html5shiv.js'></script>
+            <![endif]-->
+            <script type='text/javascript' src='ficheiros/js/jquery.js'></script>
+            <script type='text/javascript' src='ficheiros/js/bootstrap.min.js'></script>
+            <script type='text/javascript' src='ficheiros/js/knockout.js'></script>
+            <script type='text/javascript' src='ficheiros/js/jquery.tablesorter.js'></script>
+            <script type='text/javascript' src='ficheiros/js/site.js'></script>
+            <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        </head >
+        <body>
+        	<header>
+        		<div class='page-header'>
+        			<h1>
+        				Saiba onde dar Explicações
+        			</h1>
+        		</div>
+        	</header>
+        	<div class='container'>
+        		<form>
+        			<input id='pesquisaDisciplina' type="text" data-provide="typeahead" data-source=''>
+        			<button id='botaoProcurarDisciplina' type="button" class="btn">Procurar</button>
+        		</form>
+        	</div>
+
+        	<div id='conteudoTabela'>
+        	</div>
+            <div class="alert alert-block">
+                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                <h4>Atenção!</h4>
+                Neste Momento não tem a funcionalidade de Mapa, devido à sua conexão à internet ser inexistente.
+            </div>
+        </body>
+        </html>

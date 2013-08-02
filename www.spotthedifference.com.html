@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<HTML>   
+    <HEAD>
+        <TITLE>Encontre As Diferenças!</TITLE>
+        <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+        <LINK rel='stylesheet' type='text/css' href='diffstyle.css'>
+        <SCRIPT LANGUAGE=javascript SRC="explorer.js"></SCRIPT>
+    </HEAD>
+    <BODY style="text-align: left;" BGCOLOR="#FFFFF0" onload='getimgs();' onselectstart='return false;' ondrag='return false;'>
+        <TABLE CLASS="maintable" BGCOLOR="#FFFFFF" WIDTH="743" BORDER="1" BORDERCOLOR="#808080" CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER">
+            <TR>
+                <TD colspan="2">
+                    <TABLE>
+                        <TR>
+                            <TD width="600"></TD>
+                    </TABLE>
+                </TD>
+                </TR>
+                </FONT>
+                </P>
+                </TD>
+                <TD class="gameplay" WIDTH="600" cellpadding="0" cellspacing="0" border="0">
+                    <DIV style="position:absolute; z-index:1">
+                        <DIV id="welldone"></DIV>
+                    </DIV>
+                    <TABLE BORDER="0" BORDERCOLOR="#808080" CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" WIDTH="610">
+                        <TR BGCOLOR="#D0FFD0">
+                            <TD HEIGHT="400" valign="top">
+                                <DIV class="gameframe">
+                                    <DIV id="frame0" style="position:absolute; left:10px; top:10px;">
+                                        <IMG id="icache0" SRC="images/transparent.gif" style="position:absolute; left:0px; top:0px;" width="280" height="360">
+                                        <IMG id="icache1" SRC="images/transparent.gif" style="position:absolute; left:160px; top:0px;" width="40" height="40">
+                                        <DIV id="img0a" style="position:absolute; left:0; top:0;"></DIV>
+                                        <DIV id="img1a" style="position:absolute; left:0; top:0;"></DIV>
+                                        <DIV id="img2a" style="position:absolute; left:0; top:0;"></DIV>
+                                        <DIV id="img3a" style="position:absolute; left:0; top:0;"></DIV>
+                                        <IMG SRC="images/transparent.gif" style="position:absolute; left:0px; top:0px;" width="280" height="360" BORDER="0" USEMAP="#map1">
+                                    </DIV>
+                                </DIV>&nbsp;</TD>
+                            <TD HEIGHT="400" valign="top">
+                                <DIV class="gameframe">
+                                    <DIV id="frame1" style="position:absolute; left:10px; top:10px;">
+                                        <IMG id="icache2" SRC="images/transparent.gif" style="position:absolute; left:0px; top:0px;" width="280" height="360">
+                                        <IMG id="icache3" SRC="images/transparent.gif" style="position:absolute; left:200px; top:80px;" width="40" height="40">
+                                        <IMG id="icache4" SRC="images/transparent.gif" style="position:absolute; left:120px; top:280px;" width="40" height="40">
+                                        <IMG id="icache5" SRC="images/transparent.gif" style="position:absolute; left:240px; top:320px;" width="40" height="40">
+                                        <DIV id="img0b" style="position:absolute; left:0; top:0;"></DIV>
+                                        <DIV id="img1b" style="position:absolute; left:0; top:0;"></DIV>
+                                        <DIV id="img2b" style="position:absolute; left:0; top:0;"></DIV>
+                                        <DIV id="img3b" style="position:absolute; left:0; top:0;"></DIV>
+                                        <IMG SRC="images/transparent.gif" style="position:absolute; left:0px; top:0px;" width="280" height="360" BORDER="0" USEMAP="#map2">
+                                    </DIV>
+                                </DIV>&nbsp;</TD>
+                        </TR>
+                        <TR>
+                            <TD height="2" BGCOLOR="#808080" colspan="2">
+                                <TD>
+                        </TR>
+                        <TR>
+                            <TD height="3" colspan="2">
+                                <TD>
+                        </TR>
+                        <TR>
+                            <TD colspan="2">
+                                <TABLE BORDER="0" BORDERCOLOR="#808080" CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" WIDTH="590">
+                                    <TR>
+                                        <TD>&nbsp;
+                                             <B><SPAN id="find">Encontra as</SPAN> 4 diferenças.</B>&nbsp;
+                                            <img id="find0" src="images/checkbox.gif">
+                                            <img id="find1" src="images/checkbox.gif">
+                                            <img id="find2" src="images/checkbox.gif">
+                                            <img id="find3" src="images/checkbox.gif">
+                                        </TD>
+                                        <TD id="spots" align="right" valign="top">&nbsp;</TD>
+                                    </TR>
+                                </TABLE>
+                                <DIV id="done" align="center"></DIV>
+                            </TD>
+                        </TR>
+                    </TABLE>
+                    <MAP name="map1">
+                        <AREA onmousedown="javascript:return diff(0);" SHAPE=RECT COORDS="160,0,200,40">
+                        <AREA onmousedown="javascript:return diff(1);" SHAPE=RECT COORDS="200,80,240,120">
+                        <AREA onmousedown="javascript:return diff(2);" SHAPE=RECT COORDS="240,320,280,360">
+                        <AREA onmousedown="javascript:return diff(3);" SHAPE=RECT COORDS="120,280,160,320">
+                        <AREA onmousedown="javascript:return diff(-1);" SHAPE=RECT COORDS="0,0,280,360">
+                    </MAP>
+                    <MAP name="map2">
+                        <AREA onmousedown="javascript:return diff(0);" SHAPE=RECT COORDS="160,0,200,40">
+                        <AREA onmousedown="javascript:return diff(1);" SHAPE=RECT COORDS="200,80,240,120">
+                        <AREA onmousedown="javascript:return diff(2);" SHAPE=RECT COORDS="240,320,280,360">
+                        <AREA onmousedown="javascript:return diff(3);" SHAPE=RECT COORDS="120,280,160,320">
+                        <AREA onmousedown="javascript:return diff(-1);" SHAPE=RECT COORDS="0,0,280,360">
+                    </MAP>
+                    <SCRIPT LANGUAGE=javascript>
+                        function getimgs() {
+                            addimg("images/img_bg.jpg");
+                            addimg("images/img_1x5.jpg");
+                            addimg("images/img_bg.jpg");
+                            addimg("images/img_3x6.jpg");
+                            addimg("images/img_8x4.jpg");
+                            addimg("images/img_9x7.jpg");
+
+                            setTimeout("drawimgs();", 500);
+                        }
+
+                        var img0 = new Image();
+                        img0.src = "images/marker.gif";
+                        var img1 = new Image();
+                        img1.src = "images/marker1.gif";
+                        var img2 = new Image();
+                        img2.src = "images/checkboxno.gif";
+                        var img3 = new Image();
+                        img3.src = "images/checkboxyes.gif";
+                        var img4 = new Image();
+                        img4.src = "images/transparent.gif";
+
+                        var xy = [
+                            [180, 20],
+                            [220, 100],
+                            [260, 340],
+                            [140, 300],
+                            [180, 20],
+                            [220, 100],
+                            [260, 340],
+                            [140, 300]
+                        ];
+                        var ndiff = 4;
+                        var nleft = 4;
+
+                        function show(spot, img) {
+                            var x = xy[spot][0];
+                            var y = xy[spot][1];
+                            var dx = 20;
+                            var dy = 20;
+                            var o = GetObject("img" + spot + "a");
+                            if (o != null)
+                                o.innerHTML = '<IMG SRC="' + img + '" style="position:absolute; left:' + (x - dx) + 'px; top:' + (y - dy) + 'px;" BORDER="0">';
+                            x = xy[spot + 4][0];
+                            y = xy[spot + 4][1];
+                            o = GetObject("img" + spot + "b");
+                            if (o != null)
+                                o.innerHTML = '<IMG SRC="' + img + '" style="position:absolute; left:' + (x - dx) + 'px; top:' + (y - dy) + 'px;" BORDER="0">';
+                        }
+
+                        function diff(spot) {
+                            return normaldiff(spot);
+                        }
+
+                        function reveal() {
+                            timer = 0;
+
+                            for (var i = 0; i < ndiff; i++) {
+                                if (xy[i][1] >= 0) {
+                                    show(i, img1.src);
+                                    xy[i][1] = -1;
+                                    var o = GetObject("find" + (ndiff - nleft));
+                                    nleft -= 1;
+                                    if (o != null) {
+                                        o.src = img2.src;
+                                    }
+                                }
+                            }
+                            endgame(0);
+                        }
+                    </SCRIPT>
+                    </TD>
+            </TR>
+        </TABLE>
+        <TABLE WIDTH="743" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER">
+            <TR>
+                <TD width="143" valign="top">&nbsp;
+                    <BR>&nbsp;
+                    <BR>
+        </TABLE>
+    </BODY>
+    <SCRIPT LANGUAGE=javascript>
+        var tstart = new Date();
+
+        function endgame(solved) {
+            var o;
+
+            if (o) o.innerHTML = "Found";
+            if (solved) {
+                var t = 10000;
+                if (solved != 2) {
+                    var tend = new Date();
+                    t = Math.floor((tend.getTime() - tstart.getTime()) / 1000);
+                }
+                txt = getPraise(t, 10, 20, -1);
+                gamecomplete();
+                o = GetObject("spots");
+                if (o) o.innerHTML = txt;
+            } else {}
+            animate = false;
+            canspot = false;
+        }
+    </SCRIPT>
+</HTML>

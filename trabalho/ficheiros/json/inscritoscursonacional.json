@@ -1,0 +1,2226 @@
+[
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Freixo de Espada à Cinta",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "c60a31fc-478c-4108-8530-bf8087232bf7"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Arouca",
+        "cienciassociaisehumanas": 323,
+        "cienciasetecnologias": 1,
+        "artesvisuais": 0,
+        "hash": "92e9edc2-5c83-4e20-abb8-2fd3c578b3f2"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Castelo de Paiva",
+        "cienciassociaisehumanas": 293,
+        "cienciasetecnologias": 19,
+        "artesvisuais": 0,
+        "hash": "238d7cd9-9e62-47e4-8b04-9c1c9685c8dd"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Espinho",
+        "cienciassociaisehumanas": 1107,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "50985e67-8fd3-46a2-bcc2-8a92b5e9f033"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Santa Maria da Feira",
+        "cienciassociaisehumanas": 2048,
+        "cienciasetecnologias": 156,
+        "artesvisuais": 0,
+        "hash": "671d81cc-8117-4ddd-a28b-d0b50502576d"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Oliveira de Azeméis",
+        "cienciassociaisehumanas": 801,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "61611592-38eb-4368-900f-e7702167343e"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "São João da Madeira",
+        "cienciassociaisehumanas": 1136,
+        "cienciasetecnologias": 79,
+        "artesvisuais": 0,
+        "hash": "cfc25eaf-cbfa-466a-99c0-e062e2f62d6b"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vale de Cambra",
+        "cienciassociaisehumanas": 438,
+        "cienciasetecnologias": 27,
+        "artesvisuais": 0,
+        "hash": "7aae02ea-4a9b-461c-8ebc-09df84d5ff92"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Amares",
+        "cienciassociaisehumanas": 313,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "eaa200ad-2aad-41f4-b999-a4ae7129065a"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Barcelos",
+        "cienciassociaisehumanas": 1920,
+        "cienciasetecnologias": 30,
+        "artesvisuais": 0,
+        "hash": "f06b0e62-1d12-4656-b77c-169825af4cce"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Braga",
+        "cienciassociaisehumanas": 5215,
+        "cienciasetecnologias": 141,
+        "artesvisuais": 60,
+        "hash": "8585a093-41ac-4ca4-ae56-396770b0baa3"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Cabeceiras de Basto",
+        "cienciassociaisehumanas": 365,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "faa7510b-a8d9-4e32-9438-178c19ed225c"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Celorico de Basto",
+        "cienciassociaisehumanas": 155,
+        "cienciasetecnologias": 16,
+        "artesvisuais": 0,
+        "hash": "b3d3417f-ddeb-43fb-9e5e-755f3e79605b"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Esposende",
+        "cienciassociaisehumanas": 608,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "622cdc15-0e70-47af-894f-2dd9237a04ef"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Fafe",
+        "cienciassociaisehumanas": 1048,
+        "cienciasetecnologias": 29,
+        "artesvisuais": 0,
+        "hash": "c5bda57a-8302-4059-ab3a-b2bcf8af62b1"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Guimarães",
+        "cienciassociaisehumanas": 2851,
+        "cienciasetecnologias": 181,
+        "artesvisuais": 0,
+        "hash": "841646c2-1a76-4820-b7be-705de819986a"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Póvoa de Lanhoso",
+        "cienciassociaisehumanas": 404,
+        "cienciasetecnologias": 22,
+        "artesvisuais": 0,
+        "hash": "ce12e751-d9c4-4d33-aa47-e4d390f4eb9e"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Terras de Bouro",
+        "cienciassociaisehumanas": 92,
+        "cienciasetecnologias": 6,
+        "artesvisuais": 0,
+        "hash": "316ca5d6-d82e-4a1c-bd5b-d8854d7f9a50"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vieira do Minho",
+        "cienciassociaisehumanas": 229,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "f1f24dca-cd27-4421-a756-a2005bf2d922"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vila Nova de Famalicão",
+        "cienciassociaisehumanas": 2748,
+        "cienciasetecnologias": 186,
+        "artesvisuais": 0,
+        "hash": "d98315bb-fe60-4d09-bcd6-bf19146a78fe"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vila Verde",
+        "cienciassociaisehumanas": 636,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "d2249478-48de-4ecd-b262-920b3bb2d28d"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vizela",
+        "cienciassociaisehumanas": 491,
+        "cienciasetecnologias": 81,
+        "artesvisuais": 0,
+        "hash": "e9616c40-75ea-4d9f-bc2e-02e282535277"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Alfândega da Fé",
+        "cienciassociaisehumanas": 109,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "fe4bec08-0aea-4bb0-ac0b-d290d159061b"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Bragança",
+        "cienciassociaisehumanas": 850,
+        "cienciasetecnologias": 11,
+        "artesvisuais": 0,
+        "hash": "749ae8b1-e3c6-4a6f-8231-bd22d3af39f2"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Carrazeda de Ansiães",
+        "cienciassociaisehumanas": 81,
+        "cienciasetecnologias": 1,
+        "artesvisuais": 0,
+        "hash": "a59ce60e-f4a8-4835-bdfb-95ef3640ace4"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Macedo de Cavaleiros",
+        "cienciassociaisehumanas": 244,
+        "cienciasetecnologias": 15,
+        "artesvisuais": 0,
+        "hash": "abf29ac7-e042-4a40-825e-54afeebd7861"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Miranda do Douro",
+        "cienciassociaisehumanas": 141,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "3aed9ac0-7a5e-4cb9-bf51-d497b1dae3bc"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Mirandela",
+        "cienciassociaisehumanas": 540,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "94703445-7b55-43e6-9b45-c230b02eee62"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Mogadouro",
+        "cienciassociaisehumanas": 199,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "9aa85f80-3c09-4ff8-90d3-c5ba163eb778"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Torre de Moncorvo",
+        "cienciassociaisehumanas": 142,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "4665bc3d-e6b5-4b02-b8b3-1c26d2a16e11"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vila Flor",
+        "cienciassociaisehumanas": 122,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "88386511-cafe-4e08-921e-636301417d22"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vimioso",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "cceaee97-2dd5-456d-a368-3898eeee7c4c"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vinhais",
+        "cienciassociaisehumanas": 135,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "0b0c9081-3295-4550-bf68-882c12371c78"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vila Nova de Foz Côa",
+        "cienciassociaisehumanas": 109,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "04a7e686-e49a-4b88-b5fa-cbb035304104"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Amarante",
+        "cienciassociaisehumanas": 961,
+        "cienciasetecnologias": 787,
+        "artesvisuais": 0,
+        "hash": "d4ae9adb-a2bd-4498-a105-b65ada0ab6c0"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Baião",
+        "cienciassociaisehumanas": 363,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "4128f688-f56c-4e47-afd1-155d153e3b81"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Felgueiras",
+        "cienciassociaisehumanas": 1062,
+        "cienciasetecnologias": 120,
+        "artesvisuais": 0,
+        "hash": "bbac86cc-c539-4327-9c5a-ebcacb585c1c"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Gondomar",
+        "cienciassociaisehumanas": 2621,
+        "cienciasetecnologias": 126,
+        "artesvisuais": 0,
+        "hash": "e0024e38-c871-458c-b2c3-916566d016f4"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Lousada",
+        "cienciassociaisehumanas": 866,
+        "cienciasetecnologias": 43,
+        "artesvisuais": 0,
+        "hash": "ff2df8c4-9ef4-4555-9d55-3492819e700b"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Maia",
+        "cienciassociaisehumanas": 1832,
+        "cienciasetecnologias": 343,
+        "artesvisuais": 0,
+        "hash": "1031b73d-f491-4d6b-8f39-8f4ebd4299cf"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Marco de Canaveses",
+        "cienciassociaisehumanas": 1000,
+        "cienciasetecnologias": 31,
+        "artesvisuais": 0,
+        "hash": "691f94dc-62c9-4e31-8454-1f6f021fbab9"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Matosinhos",
+        "cienciassociaisehumanas": 2933,
+        "cienciasetecnologias": 129,
+        "artesvisuais": 0,
+        "hash": "701ebfc5-44ea-4000-8bd7-24f7e87899b7"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Paços de Ferreira",
+        "cienciassociaisehumanas": 906,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "9de850dd-d05a-4426-bf21-160a98a693cd"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Paredes",
+        "cienciassociaisehumanas": 1264,
+        "cienciasetecnologias": 79,
+        "artesvisuais": 0,
+        "hash": "e035da12-419d-44fc-ad09-b120aa1d9f19"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Penafiel",
+        "cienciassociaisehumanas": 1412,
+        "cienciasetecnologias": 36,
+        "artesvisuais": 0,
+        "hash": "6850b39f-44aa-487c-aac5-85d4a08e4554"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Porto",
+        "cienciassociaisehumanas": 8017,
+        "cienciasetecnologias": 507,
+        "artesvisuais": 936,
+        "hash": "467958b7-98f4-49c9-a5ad-164f7d552857"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Póvoa de Varzim",
+        "cienciassociaisehumanas": 1433,
+        "cienciasetecnologias": 300,
+        "artesvisuais": 0,
+        "hash": "ef85a38c-426f-4fa0-99df-45de74246de0"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Santo Tirso",
+        "cienciassociaisehumanas": 1282,
+        "cienciasetecnologias": 140,
+        "artesvisuais": 0,
+        "hash": "572ecab9-dbee-4516-939e-b501df88da84"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Valongo",
+        "cienciassociaisehumanas": 1707,
+        "cienciasetecnologias": 177,
+        "artesvisuais": 0,
+        "hash": "f2883a02-df9f-4ddb-b9bd-45cfd8a8556a"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vila do Conde",
+        "cienciassociaisehumanas": 1072,
+        "cienciasetecnologias": 22,
+        "artesvisuais": 0,
+        "hash": "00a4f591-97da-4a69-9e2a-23590e2f1ba2"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vila Nova de Gaia",
+        "cienciassociaisehumanas": 3349,
+        "cienciasetecnologias": 2303,
+        "artesvisuais": 0,
+        "hash": "9d8e393f-538e-427b-821b-945b67127914"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Trofa",
+        "cienciassociaisehumanas": 578,
+        "cienciasetecnologias": 58,
+        "artesvisuais": 0,
+        "hash": "f061e54d-f0e2-4ca8-9806-c444190fbf9d"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Arcos de Valdevez",
+        "cienciassociaisehumanas": 309,
+        "cienciasetecnologias": 28,
+        "artesvisuais": 0,
+        "hash": "3d71e6eb-c1c8-4e4d-b7b3-b533f87474fc"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Caminha",
+        "cienciassociaisehumanas": 321,
+        "cienciasetecnologias": 93,
+        "artesvisuais": 0,
+        "hash": "4b4aca43-b5a7-470a-8f85-8df11315db2b"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Melgaço",
+        "cienciassociaisehumanas": 140,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "d8efdc52-d17e-412e-bfea-5319d7fe048e"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Monção",
+        "cienciassociaisehumanas": 309,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "ecd230d5-c9dc-4c0f-a35d-cfafc170483d"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Paredes de Coura",
+        "cienciassociaisehumanas": 85,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "b777cd29-a4ec-488d-8693-0fd851cf21f9"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Ponte da Barca",
+        "cienciassociaisehumanas": 182,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "7608f42e-99db-4f6e-9ba8-6650a9e42a51"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Ponte de Lima",
+        "cienciassociaisehumanas": 685,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "8ac8e91e-4b45-4aff-8fa3-fe304aa690ec"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Valença",
+        "cienciassociaisehumanas": 189,
+        "cienciasetecnologias": 12,
+        "artesvisuais": 0,
+        "hash": "c1808b39-dd6d-45fe-9a03-428ed0e2c774"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Viana do Castelo",
+        "cienciassociaisehumanas": 1880,
+        "cienciasetecnologias": 25,
+        "artesvisuais": 0,
+        "hash": "2d74261a-8731-456f-b599-359bbcd02b5a"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vila Nova de Cerveira",
+        "cienciassociaisehumanas": 194,
+        "cienciasetecnologias": 19,
+        "artesvisuais": 0,
+        "hash": "0eeb8878-6637-427f-a929-5d7c07e1fb69"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Alijó",
+        "cienciassociaisehumanas": 141,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "365dab93-7265-4663-a4dc-4ebd79c3345b"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Boticas",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "9925e674-6b02-4805-92e6-c346f9c059d9"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Chaves",
+        "cienciassociaisehumanas": 970,
+        "cienciasetecnologias": 34,
+        "artesvisuais": 0,
+        "hash": "3e83b2a3-be13-4b46-aecf-66608ac4d9ed"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Mesão Frio",
+        "cienciassociaisehumanas": 75,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "5be017af-94cf-4987-8442-7b6b026ca064"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Mondim de Basto",
+        "cienciassociaisehumanas": 158,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "5524614c-cccb-410f-9527-4135f73df5cb"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Montalegre",
+        "cienciassociaisehumanas": 146,
+        "cienciasetecnologias": 15,
+        "artesvisuais": 0,
+        "hash": "33b8af3a-8c63-4131-b712-221cb99de29d"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Murça",
+        "cienciassociaisehumanas": 125,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "7bff1040-1f0c-4c04-867e-38726507fa8f"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Peso da Régua",
+        "cienciassociaisehumanas": 459,
+        "cienciasetecnologias": 48,
+        "artesvisuais": 0,
+        "hash": "2f4280c8-2dad-4cce-a4a3-43c57750b4ab"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Ribeira de Pena",
+        "cienciassociaisehumanas": 83,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "a39146a0-6a30-4da1-8cc2-b856458e5db0"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Sabrosa",
+        "cienciassociaisehumanas": 86,
+        "cienciasetecnologias": 8,
+        "artesvisuais": 0,
+        "hash": "8d606324-891c-4a4e-af08-b65b9fb3c391"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Santa Marta de Penaguião",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "9beeca50-6b38-4317-ac65-afbbd1c0eb78"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Valpaços",
+        "cienciassociaisehumanas": 249,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "09a56f71-23a8-433f-b99d-f1f258f95f83"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vila Pouca de Aguiar",
+        "cienciassociaisehumanas": 237,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "05fcceb1-3f00-49ee-a333-9edaa26c5f06"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Vila Real",
+        "cienciassociaisehumanas": 1482,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "3fcbe27d-c2b8-4b79-b042-69017709fdb1"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Armamar",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "9904ebd8-7128-4b57-9748-94c68ad6deaf"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Cinfães",
+        "cienciassociaisehumanas": 250,
+        "cienciasetecnologias": 23,
+        "artesvisuais": 0,
+        "hash": "fefcdae6-1fb4-43a1-83c7-b643bb5c27ae"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Lamego",
+        "cienciassociaisehumanas": 806,
+        "cienciasetecnologias": 61,
+        "artesvisuais": 0,
+        "hash": "d568018a-581f-48e5-bc7f-0a07e8764368"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Moimenta da Beira",
+        "cienciassociaisehumanas": 307,
+        "cienciasetecnologias": 2,
+        "artesvisuais": 0,
+        "hash": "81da1c71-a2c0-425e-acd2-b58c8413bacc"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Penedono",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "94f41e82-9048-47ed-82c7-c7a408fd7dae"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Resende",
+        "cienciassociaisehumanas": 249,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "2221b3f5-dd48-4dd0-8e50-95ecb38cab56"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "São João da Pesqueira",
+        "cienciassociaisehumanas": 154,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "9dbdfd3e-6fdc-43b9-a67b-f2b88de3de3c"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Sernancelhe",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "97d62a07-bc3d-46c2-8ef2-a7eb0a99c7e8"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Tabuaço",
+        "cienciassociaisehumanas": 73,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "e2ae4c42-87eb-4470-af49-be285c2f3fb0"
+    },
+    {
+        "DRE": "DRE Norte",
+        "CONCELHO": "Tarouca",
+        "cienciassociaisehumanas": 132,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "73c74147-5a00-40ad-beb7-2a21f612e547"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Águeda",
+        "cienciassociaisehumanas": 838,
+        "cienciasetecnologias": 116,
+        "artesvisuais": 0,
+        "hash": "6d4068db-9aa3-49ed-8e04-e03756a588b4"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Albergaria-a-Velha",
+        "cienciassociaisehumanas": 414,
+        "cienciasetecnologias": 117,
+        "artesvisuais": 0,
+        "hash": "0466204d-df28-44b9-8ca0-6185814cbac7"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Anadia",
+        "cienciassociaisehumanas": 500,
+        "cienciasetecnologias": 11,
+        "artesvisuais": 0,
+        "hash": "ab615fb2-b47f-4bd5-902a-6e8c2fbe84c9"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Aveiro",
+        "cienciassociaisehumanas": 1919,
+        "cienciasetecnologias": 328,
+        "artesvisuais": 0,
+        "hash": "1d6636d4-afc6-414f-ad3c-414bb810cd9d"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Estarreja",
+        "cienciassociaisehumanas": 373,
+        "cienciasetecnologias": 81,
+        "artesvisuais": 0,
+        "hash": "86efca1f-3e93-47b5-abcc-4a1b13b13927&"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Ílhavo",
+        "cienciassociaisehumanas": 448,
+        "cienciasetecnologias": 175,
+        "artesvisuais": 0,
+        "hash": "2767504e-0966-4e7a-98bb-7e6b09d71590"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Mealhada",
+        "cienciassociaisehumanas": 202,
+        "cienciasetecnologias": 2,
+        "artesvisuais": 0,
+        "hash": "cfc8f4c2-6470-45b8-84c1-3efca5a9e69d"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Murtosa",
+        "cienciassociaisehumanas": 10,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "5a06f992-6a0d-4d11-947e-4d7a611aba75"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Oliveira do Bairro",
+        "cienciassociaisehumanas": 452,
+        "cienciasetecnologias": 115,
+        "artesvisuais": 0,
+        "hash": "f0f41634-476c-44e8-8cb4-395a3cce1ef8"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Ovar",
+        "cienciassociaisehumanas": 843,
+        "cienciasetecnologias": 83,
+        "artesvisuais": 0,
+        "hash": "91429fd5-3ca1-4753-b9f2-ac3b07b53909"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Sever do Vouga",
+        "cienciassociaisehumanas": 244,
+        "cienciasetecnologias": 26,
+        "artesvisuais": 0,
+        "hash": "125fe0c9-de1b-4a50-81f4-1a04624966ef"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Vagos",
+        "cienciassociaisehumanas": 378,
+        "cienciasetecnologias": 75,
+        "artesvisuais": 0,
+        "hash": "982bbd90-9df8-4cc0-aa08-eaa7f87cefb7"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Belmonte",
+        "cienciassociaisehumanas": 64,
+        "cienciasetecnologias": 6,
+        "artesvisuais": 0,
+        "hash": "dd8bb8c0-769e-4d2b-a58c-92cd5d0b8da0"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Castelo Branco",
+        "cienciassociaisehumanas": 1097,
+        "cienciasetecnologias": 151,
+        "artesvisuais": 0,
+        "hash": "d2552c0c-bd94-4de5-93ab-a7ec7ede9bd9"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Covilhã",
+        "cienciassociaisehumanas": 1101,
+        "cienciasetecnologias": 87,
+        "artesvisuais": 0,
+        "hash": "7b48c2fa-44fa-4c84-b3b4-076c28160887"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Fundão",
+        "cienciassociaisehumanas": 502,
+        "cienciasetecnologias": 54,
+        "artesvisuais": 0,
+        "hash": "c2c7b9f4-7116-45e4-b03a-93b9e72c53c4"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Idanha-a-Nova",
+        "cienciassociaisehumanas": 90,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "5f30319c-b2a7-47a8-a1fa-5d18a382aefa"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Oleiros",
+        "cienciassociaisehumanas": 51,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "e423af1b-13bf-4184-bab5-fa039af63f2f"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Penamacor",
+        "cienciassociaisehumanas": 70,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "0848d9c5-8242-46a2-9106-2fcc1cf24623"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Proença-a-Nova",
+        "cienciassociaisehumanas": 183,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "18e4f972-2e95-4f3a-b869-50d3ee2baccf"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Sertã",
+        "cienciassociaisehumanas": 313,
+        "cienciasetecnologias": 64,
+        "artesvisuais": 0,
+        "hash": "e924f3d8-fcfe-459f-9aea-df4ba0a9ac5d"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Vila de Rei",
+        "cienciassociaisehumanas": 6,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "9310ff2d-c8f1-4e96-81ab-beb22fc90190"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Vila Velha de Ródão",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "cd516b9a-938d-4a42-94db-5f0922cad1b2"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Arganil",
+        "cienciassociaisehumanas": 189,
+        "cienciasetecnologias": 32,
+        "artesvisuais": 0,
+        "hash": "4fab1301-069c-4976-8b09-b63c78443e27"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Cantanhede",
+        "cienciassociaisehumanas": 718,
+        "cienciasetecnologias": 94,
+        "artesvisuais": 0,
+        "hash": "253f5c80-0aae-442d-93b0-1cdb2b41d872"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Coimbra",
+        "cienciassociaisehumanas": 4051,
+        "cienciasetecnologias": 577,
+        "artesvisuais": 0,
+        "hash": "31937469-418e-4a6e-a167-bda4ea3185d5"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Condeixa-a-Nova",
+        "cienciassociaisehumanas": 184,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "6c69d047-38d9-467f-9cc6-abf49f9785c5"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Figueira da Foz",
+        "cienciassociaisehumanas": 1158,
+        "cienciasetecnologias": 179,
+        "artesvisuais": 0,
+        "hash": "06bc29bf-3ca9-47f2-9690-cf6a24c5a4bc"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Góis",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "c1162190-4c99-4265-96f6-3a3913d2fdcc"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Lousã",
+        "cienciassociaisehumanas": 288,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "5ca05dd7-90d3-41af-ad86-8e7997f7d73e"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Mira",
+        "cienciassociaisehumanas": 154,
+        "cienciasetecnologias": 73,
+        "artesvisuais": 0,
+        "hash": "f13c0f4b-0afc-4f95-b02c-2e3e9832b63b"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Miranda do Corvo",
+        "cienciassociaisehumanas": 132,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "cb6ea856-2a31-4589-8fa4-3387ba3a02da"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Montemor-o-Velho",
+        "cienciassociaisehumanas": 251,
+        "cienciasetecnologias": 53,
+        "artesvisuais": 0,
+        "hash": "6f217675-081e-4297-9197-3fe509c7b947"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Oliveira do Hospital",
+        "cienciassociaisehumanas": 401,
+        "cienciasetecnologias": 13,
+        "artesvisuais": 0,
+        "hash": "2817697e-ef68-43a6-8939-2f052e938f9b"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Pampilhosa da Serra",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 10,
+        "artesvisuais": 0,
+        "hash": "319fe932-a889-48fe-892c-3cfc44a77e2a"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Penacova",
+        "cienciassociaisehumanas": 146,
+        "cienciasetecnologias": 13,
+        "artesvisuais": 0,
+        "hash": "7656ec4a-ca4e-4903-abe2-3d98ab76781c"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Penela",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "f17df743-4e53-467a-8a28-05fae91d9955"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Soure",
+        "cienciassociaisehumanas": 264,
+        "cienciasetecnologias": 75,
+        "artesvisuais": 0,
+        "hash": "c988e30c-ae0d-4a1e-90cd-0bfddffea6c9"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Tábua",
+        "cienciassociaisehumanas": 120,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "a33bf5e2-39d0-4aef-8deb-75b925c73427"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Vila Nova de Poiares",
+        "cienciassociaisehumanas": 83,
+        "cienciasetecnologias": 17,
+        "artesvisuais": 0,
+        "hash": "eafc7d78-0aae-43d9-96c9-ec8004400adf"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Aguiar da Beira",
+        "cienciassociaisehumanas": 55,
+        "cienciasetecnologias": 19,
+        "artesvisuais": 0,
+        "hash": "6a03a675-7eff-4d80-813c-1789122d2d14"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Almeida",
+        "cienciassociaisehumanas": 132,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "5f0643fa-f330-4b24-8a7a-abf0e78e3181"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Celorico da Beira",
+        "cienciassociaisehumanas": 108,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "ad995510-a15a-41c9-8ec0-133d7d9cb51c"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Figueira de Castelo Rodrigo",
+        "cienciassociaisehumanas": 74,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "abe6b62e-78ef-4aaa-a066-19b372a3bba1"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Fornos de Algodres",
+        "cienciassociaisehumanas": 65,
+        "cienciasetecnologias": 21,
+        "artesvisuais": 0,
+        "hash": "9d2b6f99-fb18-467d-bbc9-ddfc26794136"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Gouveia",
+        "cienciassociaisehumanas": 202,
+        "cienciasetecnologias": 15,
+        "artesvisuais": 0,
+        "hash": "3eb3b3f7-6adf-47ee-bd09-3168f21a0fae"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Guarda",
+        "cienciassociaisehumanas": 1049,
+        "cienciasetecnologias": 78,
+        "artesvisuais": 0,
+        "hash": "5858ee2c-2081-4d73-b44d-f7773b4ad494"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Manteigas",
+        "cienciassociaisehumanas": 77,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "bb0d34ae-4074-40b8-a375-ea74ce43c686"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Meda",
+        "cienciassociaisehumanas": 77,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "8bebd623-2ddd-493a-8327-910d72140d78"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Pinhel",
+        "cienciassociaisehumanas": 169,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "9a8cc199-3d1d-47f3-ac70-dd63ee92951b"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Sabugal",
+        "cienciassociaisehumanas": 122,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "da7e18b9-3f8c-4285-b067-6bae61c3bf8f"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Seia",
+        "cienciassociaisehumanas": 380,
+        "cienciasetecnologias": 58,
+        "artesvisuais": 0,
+        "hash": "e73abc04-1dbc-430e-8148-37ed759da46e"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Trancoso",
+        "cienciassociaisehumanas": 199,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "12f9009d-503e-449c-9e89-e5e6399bbb40"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Alvaiázere",
+        "cienciassociaisehumanas": 89,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "b95e5382-adc0-40f5-bd01-a5d5be54765d"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Ansião",
+        "cienciassociaisehumanas": 202,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "0aa6fae2-aab8-4403-b343-8158958b3e9e"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Batalha",
+        "cienciassociaisehumanas": 237,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "88c3dcac-36a4-4447-aac8-1077c1c60cb1"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Castanheira de Pêra",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "8df6d326-b439-468b-847d-5851714db1ed"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Figueiró dos Vinhos",
+        "cienciassociaisehumanas": 180,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "d226d0f7-21af-449f-a22c-c0d53422c0ae"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Leiria",
+        "cienciassociaisehumanas": 2451,
+        "cienciasetecnologias": 386,
+        "artesvisuais": 0,
+        "hash": "47feb81d-eebd-47cb-91fa-5817a6e8396d"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Marinha Grande",
+        "cienciassociaisehumanas": 895,
+        "cienciasetecnologias": 105,
+        "artesvisuais": 0,
+        "hash": "6a3bf62f-a5f0-4b47-80be-2035a37b2c85"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Pedrógão Grande",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "42da770d-3480-43fd-b16a-6ea070b87909"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Pombal",
+        "cienciassociaisehumanas": 1073,
+        "cienciasetecnologias": 310,
+        "artesvisuais": 0,
+        "hash": "90cf2172-390c-4ead-9b35-f772191729c2"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Porto de Mós",
+        "cienciassociaisehumanas": 474,
+        "cienciasetecnologias": 94,
+        "artesvisuais": 0,
+        "hash": "641eccb0-f480-41aa-ae5e-7db44f4445ac"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Mação",
+        "cienciassociaisehumanas": 77,
+        "cienciasetecnologias": 10,
+        "artesvisuais": 0,
+        "hash": "ea724a0b-1786-487e-9a70-8bbea08478e2"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Carregal do Sal",
+        "cienciassociaisehumanas": 124,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "f389477b-8e63-4ece-8bef-14669d3b94b6"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Castro Daire",
+        "cienciassociaisehumanas": 309,
+        "cienciasetecnologias": 45,
+        "artesvisuais": 0,
+        "hash": "caaf9fb8-4fa1-4d6d-a5ad-e22ad51e4741"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Mangualde",
+        "cienciassociaisehumanas": 348,
+        "cienciasetecnologias": 38,
+        "artesvisuais": 0,
+        "hash": "d6085813-31d6-4336-acef-2a1bcfd8bffe"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Mortágua",
+        "cienciassociaisehumanas": 157,
+        "cienciasetecnologias": 25,
+        "artesvisuais": 0,
+        "hash": "e4759fa4-ae17-4271-9998-7f2ab2a91cc5"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Nelas",
+        "cienciassociaisehumanas": 208,
+        "cienciasetecnologias": 37,
+        "artesvisuais": 0,
+        "hash": "5a53c83a-4b0d-4a0f-8950-7aeb2114b5f3"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Oliveira de Frades",
+        "cienciassociaisehumanas": 186,
+        "cienciasetecnologias": 11,
+        "artesvisuais": 0,
+        "hash": "ad8b1a37-11f9-4989-95bf-64bd9729746f"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Penalva do Castelo",
+        "cienciassociaisehumanas": 116,
+        "cienciasetecnologias": 46,
+        "artesvisuais": 0,
+        "hash": "a9a2f477-1126-4667-91a3-059827f06a23"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Santa Comba Dão",
+        "cienciassociaisehumanas": 208,
+        "cienciasetecnologias": 7,
+        "artesvisuais": 0,
+        "hash": "bf9616e2-f4be-4637-8d72-438062bfe9e1"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "São Pedro do Sul",
+        "cienciassociaisehumanas": 295,
+        "cienciasetecnologias": 7,
+        "artesvisuais": 0,
+        "hash": "cfa110da-aab3-41c8-9243-61d9509a0cdb"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Sátão",
+        "cienciassociaisehumanas": 239,
+        "cienciasetecnologias": 48,
+        "artesvisuais": 0,
+        "hash": "0a4e9534-873b-41b1-b28c-b2a5e847de47"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Tondela",
+        "cienciassociaisehumanas": 484,
+        "cienciasetecnologias": 53,
+        "artesvisuais": 0,
+        "hash": "528d620a-4c63-42b9-84e2-3f56b3739b22"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Vila Nova de Paiva",
+        "cienciassociaisehumanas": 130,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "c69b2b24-0f34-472a-9c98-16f16ec06cd9"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Viseu",
+        "cienciassociaisehumanas": 2284,
+        "cienciasetecnologias": 279,
+        "artesvisuais": 0,
+        "hash": "946708fb-f8af-4a49-8d2e-36106ec954dd"
+    },
+    {
+        "DRE": "DRE Centro",
+        "CONCELHO": "Vouzela",
+        "cienciassociaisehumanas": 129,
+        "cienciasetecnologias": 27,
+        "artesvisuais": 0,
+        "hash": "d7c9c34a-363a-462b-b457-86d6359e62e2"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Alcobaça",
+        "cienciassociaisehumanas": 1045,
+        "cienciasetecnologias": 105,
+        "artesvisuais": 0,
+        "hash": "e1ca7c27-00f9-4f78-aad5-c4231b896556"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Bombarral",
+        "cienciassociaisehumanas": 195,
+        "cienciasetecnologias": 1,
+        "artesvisuais": 0,
+        "hash": "09d4342b-26f3-440c-bd92-9bc7cb8573dc"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Caldas da Rainha",
+        "cienciassociaisehumanas": 1271,
+        "cienciasetecnologias": 135,
+        "artesvisuais": 0,
+        "hash": "47484800-505f-4b89-b53e-957c16c369e2"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Nazaré",
+        "cienciassociaisehumanas": 221,
+        "cienciasetecnologias": 17,
+        "artesvisuais": 0,
+        "hash": "98f2db02-2509-44cc-9457-c03ad6a5aea2"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Óbidos",
+        "cienciassociaisehumanas": 62,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "4ba88a0f-b0bf-463e-a840-c6f34af11d14"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Peniche",
+        "cienciassociaisehumanas": 446,
+        "cienciasetecnologias": 25,
+        "artesvisuais": 0,
+        "hash": "99091561-cd14-4f5b-9b20-6effe1e90417"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Alenquer",
+        "cienciassociaisehumanas": 600,
+        "cienciasetecnologias": 22,
+        "artesvisuais": 0,
+        "hash": "1860ed9c-549b-4fe4-8288-b114cd1ef60c"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Arruda dos Vinhos",
+        "cienciassociaisehumanas": 397,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "5cfbcd2e-2418-45b2-9955-3d4ed5f3938a"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Azambuja",
+        "cienciassociaisehumanas": 185,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "bc1388a2-d845-4f5e-b16b-44119f86bc46"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Cadaval",
+        "cienciassociaisehumanas": 109,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "dabef364-b829-4ee8-81b1-13404f21964b"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Cascais",
+        "cienciassociaisehumanas": 4998,
+        "cienciasetecnologias": 189,
+        "artesvisuais": 10,
+        "hash": "f18a1657-2659-4433-a433-c0c550641b91"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Lisboa",
+        "cienciassociaisehumanas": 13077,
+        "cienciasetecnologias": 475,
+        "artesvisuais": 1482,
+        "hash": "32c1792f-a649-4868-babc-ad01e2b519bb"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Loures",
+        "cienciassociaisehumanas": 2952,
+        "cienciasetecnologias": 232,
+        "artesvisuais": 0,
+        "hash": "8806b3f9-328d-4764-8802-b8d4b10203fb"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Lourinhã",
+        "cienciassociaisehumanas": 393,
+        "cienciasetecnologias": 56,
+        "artesvisuais": 0,
+        "hash": "e08de903-a7a4-4156-8e2f-3f9f162e1ea1"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Mafra",
+        "cienciassociaisehumanas": 1138,
+        "cienciasetecnologias": 88,
+        "artesvisuais": 0,
+        "hash": "cac42bf3-e38b-469e-93b2-e1557b6cbc09"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Oeiras",
+        "cienciassociaisehumanas": 3848,
+        "cienciasetecnologias": 258,
+        "artesvisuais": 0,
+        "hash": "4de4bb59-f8dc-4266-891d-b6d0d21f8681"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Sintra",
+        "cienciassociaisehumanas": 6945,
+        "cienciasetecnologias": 495,
+        "artesvisuais": 0,
+        "hash": "f6486713-993c-45b1-ab0d-7214435a538f"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Sobral de Monte Agraço",
+        "cienciassociaisehumanas": 138,
+        "cienciasetecnologias": 21,
+        "artesvisuais": 0,
+        "hash": "58378515-0366-4950-b453-87ad6d676569"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Torres Vedras",
+        "cienciassociaisehumanas": 1546,
+        "cienciasetecnologias": 181,
+        "artesvisuais": 0,
+        "hash": "5aea4463-5862-4ae9-82bd-8432b3ac28b7"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Vila Franca de Xira",
+        "cienciassociaisehumanas": 1954,
+        "cienciasetecnologias": 274,
+        "artesvisuais": 0,
+        "hash": "1c8e242b-ea12-458e-8b18-42717b783b34"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Amadora",
+        "cienciassociaisehumanas": 2283,
+        "cienciasetecnologias": 287,
+        "artesvisuais": 0,
+        "hash": "ebf83e29-23e0-4915-acc9-c46a6f3780b3"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Odivelas",
+        "cienciassociaisehumanas": 2707,
+        "cienciasetecnologias": 139,
+        "artesvisuais": 0,
+        "hash": "c664fda3-1824-4e7d-9a94-157416653554"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Abrantes",
+        "cienciassociaisehumanas": 782,
+        "cienciasetecnologias": 22,
+        "artesvisuais": 0,
+        "hash": "5b99def0-d0cf-46f5-8e85-68cc63d1c76b"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Alcanena",
+        "cienciassociaisehumanas": 189,
+        "cienciasetecnologias": 21,
+        "artesvisuais": 0,
+        "hash": "43cd3888-7e67-4675-a457-322a07016416"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Almeirim",
+        "cienciassociaisehumanas": 378,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "1ccfd793-482b-4429-8e44-b9cc07fc2954"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Alpiarça",
+        "cienciassociaisehumanas": 81,
+        "cienciasetecnologias": 11,
+        "artesvisuais": 0,
+        "hash": "70cb036b-4fde-4081-941a-5bf2536a27cc"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Benavente",
+        "cienciassociaisehumanas": 386,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "4f917dd4-507c-4946-9e1a-6dd94c69c3dc"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Cartaxo",
+        "cienciassociaisehumanas": 427,
+        "cienciasetecnologias": 1,
+        "artesvisuais": 0,
+        "hash": "4f19a30f-ad19-49fc-9a02-5259cb304421"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Chamusca",
+        "cienciassociaisehumanas": 67,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "0fdcc28b-8cc3-4779-9fa3-f22e97d2e5cd"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Constância",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "4c95e3a8-6af6-4600-b9c2-17a185705d8a"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Coruche",
+        "cienciassociaisehumanas": 295,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "dd1a76f2-64d0-4f84-bb25-eac78ba34823"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Entroncamento",
+        "cienciassociaisehumanas": 405,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "f7c04c76-3b78-4c66-af70-f03bb1ad348f"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Ferreira do Zêzere",
+        "cienciassociaisehumanas": 123,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "3b6d9736-5de6-417e-9327-01829b44a2d8"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Golegã",
+        "cienciassociaisehumanas": 33,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "08faa9b5-7f02-495c-8470-3d23b83653f4"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Rio Maior",
+        "cienciassociaisehumanas": 350,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "be5efba7-016c-4f17-8d5f-f5e1d23c3ce5"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Salvaterra de Magos",
+        "cienciassociaisehumanas": 406,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "2152e011-ea62-4e12-865b-a69d3d7f2c8e"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Santarém",
+        "cienciassociaisehumanas": 1061,
+        "cienciasetecnologias": 94,
+        "artesvisuais": 0,
+        "hash": "3b504054-8b3c-4e73-91f1-3d5ff3ee5c4a"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Sardoal",
+        "cienciassociaisehumanas": 53,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "5483d687-49f8-45f0-a4d0-f46978a33c7e"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Tomar",
+        "cienciassociaisehumanas": 935,
+        "cienciasetecnologias": 88,
+        "artesvisuais": 0,
+        "hash": "a2ffb05b-f77b-47e4-b01c-4911eecc87cd"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Torres Novas",
+        "cienciassociaisehumanas": 735,
+        "cienciasetecnologias": 70,
+        "artesvisuais": 0,
+        "hash": "c21e0599-2c82-4dec-9316-5708fc9484d3"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Vila Nova da Barquinha",
+        "cienciassociaisehumanas": 69,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "5c9e8e54-5cca-4570-9ca3-11c3279e7868"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Ourém",
+        "cienciassociaisehumanas": 1199,
+        "cienciasetecnologias": 306,
+        "artesvisuais": 0,
+        "hash": "75b2f839-3e18-4f9d-b37c-3473d6208931"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Alcochete",
+        "cienciassociaisehumanas": 435,
+        "cienciasetecnologias": 112,
+        "artesvisuais": 0,
+        "hash": "bb165361-9ed1-469f-b5e7-63c72d17a86d"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Almada",
+        "cienciassociaisehumanas": 3679,
+        "cienciasetecnologias": 290,
+        "artesvisuais": 0,
+        "hash": "83be5f3b-153e-4f6e-8319-e56529234043"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Barreiro",
+        "cienciassociaisehumanas": 2003,
+        "cienciasetecnologias": 97,
+        "artesvisuais": 0,
+        "hash": "a912f4c5-02c1-48ba-8b9d-360be80d5c0c"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Moita",
+        "cienciassociaisehumanas": 580,
+        "cienciasetecnologias": 21,
+        "artesvisuais": 0,
+        "hash": "3709ac0c-c5ce-4cf8-9e3d-e45c8310688a"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Montijo",
+        "cienciassociaisehumanas": 553,
+        "cienciasetecnologias": 29,
+        "artesvisuais": 0,
+        "hash": "50d8545c-5833-4b0c-9756-ee7df104b5ef"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Palmela",
+        "cienciassociaisehumanas": 1034,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "2f78a30d-00b0-469e-a1e1-5b9f5f896d2e"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Seixal",
+        "cienciassociaisehumanas": 2417,
+        "cienciasetecnologias": 204,
+        "artesvisuais": 0,
+        "hash": "a256541e-b7c0-45e8-97f2-4266995a37b1"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Sesimbra",
+        "cienciassociaisehumanas": 862,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "d335f852-18af-4726-a750-ed1c083eacac"
+    },
+    {
+        "DRE": "DRE Lisboa e Vale do Tejo",
+        "CONCELHO": "Setúbal",
+        "cienciassociaisehumanas": 2091,
+        "cienciasetecnologias": 172,
+        "artesvisuais": 0,
+        "hash": "2ac04848-32cd-41eb-97e3-46d8a0f78017"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Aljustrel",
+        "cienciassociaisehumanas": 139,
+        "cienciasetecnologias": 10,
+        "artesvisuais": 0,
+        "hash": "f8b31269-1696-4f3f-96c1-3b6b1a9253f1"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Almodôvar",
+        "cienciassociaisehumanas": 96,
+        "cienciasetecnologias": 51,
+        "artesvisuais": 0,
+        "hash": "05f578f0-8c4c-447f-8c06-74d1586eec3a"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Alvito",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "e332e8a4-5583-4b27-a899-53f9565dbc32"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Barrancos",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "25ef5bcc-f743-44db-8c44-bb5a43f6087d"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Beja",
+        "cienciassociaisehumanas": 814,
+        "cienciasetecnologias": 129,
+        "artesvisuais": 0,
+        "hash": "491fb3ed-2004-4090-9b7d-5e5f276f45bc"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Castro Verde",
+        "cienciassociaisehumanas": 118,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "24d142f4-d9ab-49e0-ba3d-ace6271062de"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Cuba",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "dd82673d-795f-458d-954f-6c5f11f94e04"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Ferreira do Alentejo",
+        "cienciassociaisehumanas": 24,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "a0218140-1016-4edb-b9bf-a63c48efe1ec"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Mértola",
+        "cienciassociaisehumanas": 65,
+        "cienciasetecnologias": 24,
+        "artesvisuais": 0,
+        "hash": "a2300a48-a102-4396-ab14-2afc88401537"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Moura",
+        "cienciassociaisehumanas": 254,
+        "cienciasetecnologias": 59,
+        "artesvisuais": 0,
+        "hash": "175d4a00-368c-4714-b503-6c6cc0008a99"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Odemira",
+        "cienciassociaisehumanas": 350,
+        "cienciasetecnologias": 63,
+        "artesvisuais": 0,
+        "hash": "4464ddcd-bcbf-4999-9bdd-b4e09b1f8b23"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Ourique",
+        "cienciassociaisehumanas": 68,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "07029bbb-0719-4485-a4e1-2e4612b657ec"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Serpa",
+        "cienciassociaisehumanas": 269,
+        "cienciasetecnologias": 24,
+        "artesvisuais": 0,
+        "hash": "a8a6fdc1-d7f9-4695-b23d-266b6c48e1cc"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Vidigueira",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "f77d9e0d-16cb-44c4-ae36-4b1665278e89"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Alandroal",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "d3c3f280-b1ab-49db-9adf-1a33cc50404f"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Arraiolos",
+        "cienciassociaisehumanas": 132,
+        "cienciasetecnologias": 5,
+        "artesvisuais": 0,
+        "hash": "676a5ca5-d737-47be-a877-484643a85d9b"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Borba",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "7582e593-9637-40b1-9c89-4548b19e03b5"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Estremoz",
+        "cienciassociaisehumanas": 377,
+        "cienciasetecnologias": 2,
+        "artesvisuais": 0,
+        "hash": "ed297e0e-4f3d-4a6d-b6ee-9556bdaf1fd3"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Évora",
+        "cienciassociaisehumanas": 1350,
+        "cienciasetecnologias": 204,
+        "artesvisuais": 0,
+        "hash": "455c5a04-fbd2-4264-b1bf-c87bfe5acaaa"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Montemor-o-Novo",
+        "cienciassociaisehumanas": 214,
+        "cienciasetecnologias": 54,
+        "artesvisuais": 0,
+        "hash": "87f32b63-14bb-43cc-b3e3-d6f18c708961"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Mora",
+        "cienciassociaisehumanas": 75,
+        "cienciasetecnologias": 1,
+        "artesvisuais": 0,
+        "hash": "222592ff-0dce-41c6-830f-ec3259d1714b"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Mourão",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "9832f307-4b97-4ac3-8690-d91c8012e7cf"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Portel",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "b73adff4-95cc-4373-b6d1-5264275f7e1c"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Redondo",
+        "cienciassociaisehumanas": 60,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "3567aa4b-7204-4f2a-9403-6e24243507be"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Reguengos de Monsaraz",
+        "cienciassociaisehumanas": 243,
+        "cienciasetecnologias": 17,
+        "artesvisuais": 0,
+        "hash": "318e42c6-79b3-4af5-a7a7-90c2d7e178c7"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Vendas Novas",
+        "cienciassociaisehumanas": 220,
+        "cienciasetecnologias": 11,
+        "artesvisuais": 0,
+        "hash": "f1973b3f-74e7-41a5-b44b-184d8455fe9e"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Viana do Alentejo",
+        "cienciassociaisehumanas": 65,
+        "cienciasetecnologias": 12,
+        "artesvisuais": 0,
+        "hash": "8e898258-409d-4fda-8cdd-1477e94c0c1b"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Vila Viçosa",
+        "cienciassociaisehumanas": 362,
+        "cienciasetecnologias": 1,
+        "artesvisuais": 0,
+        "hash": "e71fd77d-8383-4722-884a-97ec9198c6b4"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Alter do Chão",
+        "cienciassociaisehumanas": 42,
+        "cienciasetecnologias": 15,
+        "artesvisuais": 0,
+        "hash": "0ac43b55-415b-4e03-b976-cc72c5fdff6f"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Arronches",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "5a322bab-8d97-4346-8ee8-2c965a422a70"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Avis",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "d6210139-ea3c-48c8-8a96-c0892d991f34"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Campo Maior",
+        "cienciassociaisehumanas": 112,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "24b9f0c1-83a1-45a5-9ea8-0791d11d4f8a"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Castelo de Vide",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "c327df9b-fdfc-439d-9b86-25625104a392"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Crato",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "6c473b0f-26f7-4fa1-8f31-a4ec84b0ae08"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Elvas",
+        "cienciassociaisehumanas": 508,
+        "cienciasetecnologias": 43,
+        "artesvisuais": 0,
+        "hash": "1d2be299-219b-479f-8400-66df51d49f47"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Fronteira",
+        "cienciassociaisehumanas": 7,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "55dcdd5e-e9b6-409f-b26f-b9c31345dd6f"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Gavião",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "831745cf-0042-487f-8975-c6233cf3b387"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Marvão",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "a3dea353-dc85-4899-8504-d4a2e5d27a61"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Monforte",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "31c667b6-e48c-4813-b5cf-c34f1c6275f3"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Nisa",
+        "cienciassociaisehumanas": 70,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "c5da4836-7ae3-44b9-9d88-1361667fe3be"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Ponte de Sor",
+        "cienciassociaisehumanas": 263,
+        "cienciasetecnologias": 81,
+        "artesvisuais": 0,
+        "hash": "af76b6d0-bf5a-45be-9517-4374f22b86fb"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Portalegre",
+        "cienciassociaisehumanas": 770,
+        "cienciasetecnologias": 100,
+        "artesvisuais": 0,
+        "hash": "aaaee4d4-ea6f-4c82-be9a-4433aaf176b3"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Sousel",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "ac5c4bf8-f2cb-4eb7-bb1c-8aeba44be772"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Alcácer do Sal",
+        "cienciassociaisehumanas": 185,
+        "cienciasetecnologias": 13,
+        "artesvisuais": 0,
+        "hash": "b7758058-7b2e-45dc-870f-024824e1421e"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Grândola",
+        "cienciassociaisehumanas": 190,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "0798bbf5-6e61-4880-b6c3-c5917e45aa85"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Santiago do Cacém",
+        "cienciassociaisehumanas": 387,
+        "cienciasetecnologias": 45,
+        "artesvisuais": 0,
+        "hash": "f395a62a-7290-44f2-aeb6-0eda499ccf94"
+    },
+    {
+        "DRE": "DRE Alentejo",
+        "CONCELHO": "Sines",
+        "cienciassociaisehumanas": 245,
+        "cienciasetecnologias": 1,
+        "artesvisuais": 0,
+        "hash": "560fbeb4-3464-4e55-8a78-5454df543465"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Albufeira",
+        "cienciassociaisehumanas": 775,
+        "cienciasetecnologias": 154,
+        "artesvisuais": 0,
+        "hash": "0d6977ad-c552-4b0f-aad0-58bad251ecc1"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Alcoutim",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "a5decb8b-c5fc-415d-a463-fe905b11d272"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Aljezur",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "c16437ca-dbaf-46b3-9b9a-b765ababb49e"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Castro Marim",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "e4e21175-1e51-46fe-9761-e5017d18a3d5"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Faro",
+        "cienciassociaisehumanas": 1407,
+        "cienciasetecnologias": 186,
+        "artesvisuais": 39,
+        "hash": "31c0732e-82d6-421b-91ce-a0a229f035af"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Lagoa",
+        "cienciassociaisehumanas": 155,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "066eb533-58b4-4c52-b930-77377f6a1e55"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Lagos",
+        "cienciassociaisehumanas": 673,
+        "cienciasetecnologias": 133,
+        "artesvisuais": 0,
+        "hash": "e5744519-f152-484e-8736-0ff5c2ace2f9"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Loulé",
+        "cienciassociaisehumanas": 1176,
+        "cienciasetecnologias": 125,
+        "artesvisuais": 0,
+        "hash": "2764d245-eb51-4353-bbf6-abc5b0565f2e"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Monchique",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "d56f1984-4c51-4271-b77c-b2bc8f2fa929"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Olhão",
+        "cienciassociaisehumanas": 628,
+        "cienciasetecnologias": 36,
+        "artesvisuais": 0,
+        "hash": "91efaf10-3055-4a2e-82ff-2e23adbfc703"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Portimão",
+        "cienciassociaisehumanas": 1216,
+        "cienciasetecnologias": 298,
+        "artesvisuais": 0,
+        "hash": "d74eb4bb-d929-4c0b-9d23-2eaab27b7170"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "São Brás de Alportel",
+        "cienciassociaisehumanas": 125,
+        "cienciasetecnologias": 16,
+        "artesvisuais": 0,
+        "hash": "fa06a9df-2d15-4f8b-bcf6-7999b58e55a0"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Silves",
+        "cienciassociaisehumanas": 449,
+        "cienciasetecnologias": 61,
+        "artesvisuais": 0,
+        "hash": "067a5bff-ad9f-418b-8d69-408cf2ae7239"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Tavira",
+        "cienciassociaisehumanas": 427,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "58e59df3-1c4c-4fbe-a7c6-d47c36be9b8e"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Vila do Bispo",
+        "cienciassociaisehumanas": 0,
+        "cienciasetecnologias": 0,
+        "artesvisuais": 0,
+        "hash": "db2bee03-4c6b-4c2a-b014-0d5f4af83e1d"
+    },
+    {
+        "DRE": "DRE Algarve",
+        "CONCELHO": "Vila Real de Santo António",
+        "cienciassociaisehumanas": 421,
+        "cienciasetecnologias": 119,
+        "artesvisuais": 0,
+        "hash": "e772eb74-d116-4811-bfcb-e0909ff179ea"
+    }
+]

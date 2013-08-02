@@ -1,0 +1,81 @@
+MySQL + phpMyAdmin
+Classes
+---
+
+UTILIZADOR
+-U_ID
+-U_Nome
+-U_Password (encryptada)
+-RESULTADO
+
+JOGO
+-J_ID (os jogos vao ter uma order a ser precoridos com um botão tipo "proximo jogo", pode ser feita por aqui)
+-J_Nome
+-Ficheiros (?)
+	-Codigo
+	-Media (Imagens)
+
+RESULTADO
+-R_Pontos
+-R_Tempo (tempo decorrido)
+-R_Data (Data e hora para ordenar no grafico/estatisticas)
+-JOGO
+
+
+HTML5+JavaScript
+Paginas
+---
+
+-Inicial
+	-Buttao de Login/Logout
+		Se não houver sessão
+			-Pagina de Login
+				Se for valido
+					-Pagina inicial com conta inicializada
+				Senão
+					-Pagina de Login com mensagem de erro
+		Senão
+			*Termina a sessão*
+			-Pagina Inicial
+	-Jogos
+		-Mapa da cidade
+			*Edificio do Jogo escolhido*
+				-Pagina do jogo
+					-Descrição do Jogo
+					-Jogar
+						*Jogo*
+				-Butão Proximo jogo
+					-Proxima pagina do jogo	
+	-Contactos
+		-Form para contacto
+	-Contiudo da pagina inicial, noticias/artigos (?)
+
+
+Coisas que são precisas (Psicologia)
+---
+
+• Área reservada
+	o Estatísticas
+		§ Semanais
+		§ Mensais
+	o Jogo
+		§ Escolher tipo de jogo
+			• Escolher edifício no mapa
+			• Quadro explicar jogo
+			• Primeiro jogo (diferenças)
+				o Estrela (pontualmente)
+					§ Informação sobre edifício
+				o Sol (pontualmente)
+					§ Informação sobre jogo/curiosidade
+			• Quadro explicar próximo jogo
+			• Validar resultado contas
+
+
+Ferramentas
+---
+
+-http://jsbeautifier.org/
+-phpMyAdmin
+-MySQL
+-HTML5+JavaScript
+-XAMPP

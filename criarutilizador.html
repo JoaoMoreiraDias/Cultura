@@ -1,0 +1,49 @@
+<?php
+include('template/index.php');
+get_header('definicoes');
+?>
+<div class="body3">
+	<div class="main">
+		<article id="content">
+			<div class="wrapper">
+				<section class="col">
+					<h2 class="under">Definições gerais de conta</h2>
+					<form id="formulario" method="post">
+						<div>
+							<div  class="wrapper">
+								<p id="msg_erro" visibility="hidden">Email ou password invalidos</p>
+								<span>Nome:</span>
+								<input name="TF_Nome" type="text" value="" class="input" placeholder="Nome..." autocomplete="off" required="required"/>
+							</div>
+							<div  class="wrapper">
+								<span>Email:</span>
+								<input id="email" name="email" required type="email" placeholder="E-mail..." autocomplete="off" required="required" >
+							</div>
+							<div  class="wrapper">
+								<span>Data de Narcimento:</span>
+								<input name="TF_DataNarc" type="text" value="" class="input" placeholder="Data de Narcimento..." autocomplete="off" required="required"/>
+							</div>
+							<div  class="wrapper">
+								<span>Password:</span>
+								<input id="password" name="password" required type="password" class="input" placeholder="Password..." autocomplete="off" required="required" >
+							</div>
+							<div  class="wrapper">
+								<span>Confirmar Password:</span>
+								<input id="password" name="password" required type="password" class="input" placeholder="Password..." autocomplete="off" required="required" >
+							</div>
+							<div class="wrapper">
+								<br>
+								<br>
+								<input type="submit" value="Register" />
+								<a id="btn_s" type="button" value="Registar-me" ></a>
+							</div>
+						</div>
+					</form>
+				</section>
+			</div>
+		</article>
+	</div>
+</div>
+<?php
+get_footer();
+?>

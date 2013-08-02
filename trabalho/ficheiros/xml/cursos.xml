@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cursos>
+<curso>
+	<nome>Ciencias e tecnologias</nome>
+	<disciplinas>
+		<disciplina>
+			<nome>Frances</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Ingles</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Portugues</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Filosofia</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Matematica A</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Fisica e Quimica A</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Biologia e Geologia</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Geometria Descritiva A</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Economia A</nome>
+		</disciplina>
+	</disciplinas>
+</curso>
+<curso>
+	<nome>Ciencias Sociais e Humanas</nome>
+	<disciplinas>
+		<disciplina>
+			<nome>Frances</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Ingles</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Portugues</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Filosofia</nome>
+		</disciplina>
+		<disciplina>
+			<nome>MACS</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Geografia A</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Economia A</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Filosofia A</nome>
+		</disciplina>
+	</disciplinas>
+</curso>
+<curso>
+	<nome>Artes Visuais</nome>
+	<disciplinas>
+		<disciplina>
+			<nome>Frances</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Ingles</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Portugues</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Filosofia</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Desenho A</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Geometria Descritiva A</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Matematica B</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Historia da Cultura e das Artes</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Fisica e Quimica A</nome>
+		</disciplina>
+		<disciplina>
+			<nome>Filosofia A</nome>
+		</disciplina>
+	</disciplinas>
+</curso>
+</cursos>
